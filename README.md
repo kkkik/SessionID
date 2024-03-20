@@ -6,5 +6,5 @@ InstaGram SessionID Perfect Extractor
    ```3. User Instagram```
    ```4.Password```
    ```5. Done```
-   ** So Easy To Use**
+   *** So Easy To Use***
    
